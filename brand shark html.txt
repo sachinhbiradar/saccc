@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Brand shark</title>
+    
+    <link rel="stylesheet" href="brandshark.css">
+</head>
+<body>
+    <header>
+        <h1><img src="C:\Users\SACHIN H\Downloads\bs logo" alt="sach" width="600" height="60"></h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <img src="C:\Users\SACHIN H\OneDrive\Desktop\get-in-touchmin.jpg" alt="saaa" width="400" height="300">
+        </nav>
+    </header>
+
+    <section id="about">
+        <h3><img src="C:\Users\SACHIN H\Downloads\about us" alt="saccc" width="300" height="300" ></h3>
+        <p>Team of Marketers & Brand Strategists We are a young team of marketers and 
+            brand strategists who enable your business to stand out from the rest in 
+            this digital world. 
+            Whether you are a start-up or an established business,
+            Brandshark has the expertise to lead you in the right way </p>
+
+            <h2>Why Brandshark?</h2>
+            <h3><img src="C:\Users\SACHIN H\Downloads\why-brandshark-min.webp" alt="sachh" width="300" height="300"></h3>
+
+<p>Innovative Process</p>
+
+We believe in keeping creativity at the helm of things at our workplace. Our innovative approach of making no two strategies similar is what makes us unique.
+
+
+<h2>Research Focussed</h2>
+We do comprehensive research that helps us plan the right strategy to deliver relentless growth and ensure your brand’s success.
+
+<h2>Excellence in Delivery</h2>
+We have a proven track record of providing excellent digital marketing services for over 200 happy customers. We never stop until we give you what you desire!
+           
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            
+            <h3><li>Web development</li></h3>
+            <h3><img src="C:\Users\SACHIN H\Downloads\web dev"" alt="saaa" width="300" height="300" ></h3>
+            <p>In this technologically driven world, achieving a lasting online
+                 presence is an aim that businesses need to pursue.
+                 Brandsharks skilled team of web designers and developers employ 
+                 their years of experience and expertise in building high-performing,
+                 feature-packed, secure and scalable websites.
+                 We provide tailor-made website development services to meet 
+                 your specific industry needs</p>
+
+            <h3><li>UI/UX</li></h3>
+            <h3><img src="C:\Users\SACHIN H\Downloads\UIUX-Design" alt="saa" width="300" height="300"></h3>
+            <p>We help our clients convert their ideas into user experiences that 
+                drive engagement and increase conversion. 
+                The initial visual representation of your product is what is critical 
+                to sparking likeability in your users. 
+                This is why your UI needs to be crafted with perfection keeping the
+                 users in mind. Being one of India’s best UI/UX design companies,
+                 we aim at creating compelling user interactions that tell the 
+                 story of your brand as well as shaping the aspects of usability 
+                 and user engagement.</p>
+
+            <h3><li>Digital marketing</li></h3>
+            <h3><img src="C:\Users\SACHIN H\Downloads\digital_marketing" alt="saa" width="300" height="300"></h3>
+            <p>We provide successful results in such a short period through our 
+                enthralling digital marketing services.
+                 From generating leads and increasing your sales to driving 
+                 website traffic, Brandshark’s digital marketing solutions can 
+                 help you achieve your business goals effectively. 
+                 We use cutting edge data analytics tools and industry best 
+                 digital marketing strategies to help you reach your goals.
+                 With Brandshark’s digital marketing services, you take the
+                  express elevator to higher growth!</p>
+        </ul>
+    </section>
+    
+    <h3>OUR TEAM</h3>
+    <head>
+    <h3><img src="C:\Users\SACHIN H\Downloads\Ankur-Sharma-founder-Brandshark.jpg" alt="sacchh" width="300" height="300"></h3>
+    <h3>Alma Mater: IIT Kanpur</h3>
+
+       <h3> Ankur Sharma</h3>
+       <h3> DIRECTOR-SALES & MARKETING</h3>
+    <h3><img src="C:\Users\SACHIN H\Downloads\Shekhar-suman-founder-Brandshark.jpg" alt="sachh" width="300" height="300"></h3>
+    <h3>Alma Mater: IIT Kanpur, IIM Calcutta</h3>
+
+<h3>Shekhar Suman</h3>
+
+<h3>DIRECTOR-DESIGN & DEVELOPMENT</h3>
+<h3><button>Join Our Team</button></h3>
+</head>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>You can reach us via email at <a href="mailto:brandshark@example.com">brandshark@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; © Copyright 2024. All rights reserved.</p>
+    </footer>
+</body>
+</html>
